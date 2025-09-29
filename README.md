@@ -5,8 +5,8 @@ Implement application by using React-native with Typescript with following requi
 - Display to Leader board
 - publish on git repository
 
-![Alt text](./assets/p1.png)
+![Alt text](./example_screens/p1.png)
 
-![Alt text](./assets/p2.png)
+![Alt text](./example_screens/p2.png)
 
-![Alt text](./assets/p3.png)
+![Alt text](./example_screens/p3.png)
